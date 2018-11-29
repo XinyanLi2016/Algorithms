@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1539877025 source:e:\mycprogram\1018a\main.cpp
+	<iostream>
+	<cstdio>
+	<vector>
+	<cstring>
+	<queue>
+

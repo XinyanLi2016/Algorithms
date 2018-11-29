@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540985938 source:e:\mycprogram\1025e\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<cmath>
+

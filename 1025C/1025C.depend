@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540954199 source:e:\mycprogram\1025c\main.cpp
+	<iostream>
+	<stdio.h>
+	<vector>
+
